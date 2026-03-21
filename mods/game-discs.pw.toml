@@ -1,0 +1,13 @@
+name = "Game Discs"
+filename = "gamediscs-0.3.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AgqoIu86/versions/WbALZy2s/gamediscs-0.3.2-fabric.jar"
+hash-format = "sha512"
+hash = "df7d4dfed5df7d3c6b91e3309510510ccb6a0e3aae78c4d7f30b80f869404e6a95fb993751b3ee65d352fcc2b7f1d131110233dddfd83409af3a3194789098f0"
+
+[update]
+[update.modrinth]
+mod-id = "AgqoIu86"
+version = "WbALZy2s"

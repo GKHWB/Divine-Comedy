@@ -1,0 +1,13 @@
+name = "Cold Breath"
+filename = "coldbreath-1.5.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/w2KrCmBX/versions/szatvqj3/coldbreath-1.5.2.jar"
+hash-format = "sha512"
+hash = "e775d221039e64a5fb98a82aa9e03fd7b73b1f94bb100483717a280d49160bcce433d8bb59d087cb3b32a4214ce22914037f937439b15c875540f945656aadd6"
+
+[update]
+[update.modrinth]
+mod-id = "w2KrCmBX"
+version = "szatvqj3"

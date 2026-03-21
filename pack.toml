@@ -1,0 +1,13 @@
+name = "Divine Comedy"
+author = "Wolkenz"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "46963539e0ad5c81ff172b418a8f1bf1086d41949ac42295f120a755b89d2d50"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.1"

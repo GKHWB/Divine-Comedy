@@ -1,0 +1,13 @@
+name = "Magic Teleportation Coin Mod"
+filename = "magic_teleportation_coin_mod_fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NIABU0wr/versions/rf0xySQC/magic_teleportation_coin_mod_fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "bbe113e55d974b3f567ec7c48f6e2bbe86bbf477f5b73dadbb43801215d0ebb6f5e3859f8094a66f612b20afcc6b130a112a5e8eee3e66ff1de0304eb33ab63e"
+
+[update]
+[update.modrinth]
+mod-id = "NIABU0wr"
+version = "rf0xySQC"

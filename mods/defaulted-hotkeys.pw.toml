@@ -1,0 +1,13 @@
+name = "Defaulted Hotkeys"
+filename = "defaulted_hotkeys-2.1.1-1.20.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fE4Yg12d/versions/br3f86Ea/defaulted_hotkeys-2.1.1-1.20.4-fabric.jar"
+hash-format = "sha512"
+hash = "f3be060ca5cc7465567dcc5341a8b9a1bc55af79c6107a290ae1d0d9d00cdbf81b1b00a0ea781cf1c3bdd300521bbc72f9262604daec77aadf0a5ee0ad3fc773"
+
+[update]
+[update.modrinth]
+mod-id = "fE4Yg12d"
+version = "br3f86Ea"
