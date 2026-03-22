@@ -11,3 +11,8 @@ hash = "e775d221039e64a5fb98a82aa9e03fd7b73b1f94bb100483717a280d49160bcce433d8bb
 [update.modrinth]
 mod-id = "w2KrCmBX"
 version = "szatvqj3"
+
+[option]
+optional = true
+description = "Adds breath effects that adapt to your environment and movement."
+default = true

@@ -15,3 +15,4 @@ version = "9JlOY4eW"
 [option]
 optional = true
 description = "Solves too many keybinds by providing a bind launcher."
+default = true

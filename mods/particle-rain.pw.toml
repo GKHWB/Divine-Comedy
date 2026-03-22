@@ -11,3 +11,8 @@ hash = "c590e2371fad28dfc353965376bf9d5a41c69f9ef41c53e9eab2001744346969e5d5c278
 [update.modrinth]
 mod-id = "nrikgvxm"
 version = "xrgcdsyD"
+
+[option]
+optional = true
+description = "Better looking weather affects. Customizable through an in-game menu."
+default = true

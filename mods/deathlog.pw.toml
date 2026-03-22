@@ -11,3 +11,7 @@ hash = "84d9ceed4ad49ca0466434c2352154e05e6c6c2f557cd3c0773dad4cc6d07275ac13f475
 [update.modrinth]
 mod-id = "TPAYeAOc"
 version = "V0Hz3q2W"
+
+[option]
+optional = true
+description = "Tells you the coordinates of your death and what items you had on you."

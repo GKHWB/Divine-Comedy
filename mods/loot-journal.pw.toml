@@ -11,3 +11,8 @@ hash = "34155cc61efdaf7ebd354aa1d25f5a3b327fe6e062348e770aea802bef77b0753b212b1a
 [update.modrinth]
 mod-id = "OJ6ZYz5L"
 version = "3WE4RTDk"
+
+[option]
+optional = true
+description = "Adds stylized and animated notifications about picking up items."
+default = true

@@ -11,3 +11,8 @@ hash = "77ecec111b273326bed77eac25999770f0468131bea674fa01ac0464bfe18a571d569ed0
 [update.modrinth]
 mod-id = "5IIKsxiL"
 version = "G2IPOBt4"
+
+[option]
+optional = true
+description = "Lets you selectively muffle sounds."
+default = true

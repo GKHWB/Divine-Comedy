@@ -11,3 +11,8 @@ hash = "6f5e96f99ccc727a35891d9121b333d3d68f0fa6ad6e961081a51d41f8d4b6e7d32920f3
 [update.modrinth]
 mod-id = "4q8UOK1d"
 version = "WTqLfWX0"
+
+[option]
+optional = true
+description = "Adds many new subtle details through particles and a few sounds. All toggleable, some customizable."
+default = true
