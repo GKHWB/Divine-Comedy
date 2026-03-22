@@ -14,5 +14,5 @@ version = "xrgcdsyD"
 
 [option]
 optional = true
-description = "Better looking weather affects. Customizable through an in-game menu."
+description = "Better looking weather effects. Customizable through an in-game menu."
 default = true
