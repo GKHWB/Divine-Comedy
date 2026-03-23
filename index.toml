@@ -990,11 +990,6 @@ hash = "c042c8372e4ce2bc4aa4e54d8ddb54f7fbc4ae68a3916b7a20216d2ae1692282"
 metafile = true
 
 [[files]]
-file = "mods/deathlog.pw.toml"
-hash = "b69c37feb9707fcbe3c655acdd436237a80b02040bfdf53de7a65b0d69481141"
-metafile = true
-
-[[files]]
 file = "mods/defaulted-hotkeys.pw.toml"
 hash = "7af797302ac37e1cac030bae4fa7d969523c657fa23dc321557d0aa3f792862b"
 metafile = true
