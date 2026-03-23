@@ -5,6 +5,11 @@
       "-breaks": {
         "hexal": "<=0.3.0"
       }
+    },
+    "hexkeys": {
+      "-depends": {
+        "hexcasting": ">=0.11.3"
+      }
     }
   }
 }

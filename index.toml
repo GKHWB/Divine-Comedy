@@ -246,7 +246,7 @@ hash = "0e81a3f974296d3f85b67fb326670f41daac44ad15a0cfffc6374df989171090"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ee1348fa5fd0bf3770abe357e89475ddf2f41577eeab61af08d62105ee1ef8cc"
+hash = "b8ca70c8af3a60ceb17233ce5ab106c5778c4289bc07193ef631557aea051f15"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -1115,6 +1115,11 @@ hash = "cf92a0fa5a011203b75746597d9c585ce260e107bbaad19b843e474f37f9ca12"
 metafile = true
 
 [[files]]
+file = "mods/hex-keys.pw.toml"
+hash = "8bb420e6df60220ed8103119f03da3ee4b5be8b4424aea93a499d96936dd4bae"
+metafile = true
+
+[[files]]
 file = "mods/hex-machina.pw.toml"
 hash = "6a0af715b6a087f28f3a440f18b73b87786ef293a475c186659b7b5eac10ffa3"
 metafile = true
@@ -1574,7 +1579,7 @@ metafile = true
 
 [[files]]
 file = "mods/slate-works.pw.toml"
-hash = "a7d049e908ae3a826176135b6bd753925451fb74fe3fdbd4ec3372ead38ab224"
+hash = "ebb4088115a98bd1030774ee8763f06c69cc87ce7f1378562b1f2df2df3a38c2"
 metafile = true
 
 [[files]]

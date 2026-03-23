@@ -1,0 +1,13 @@
+name = "Hex Keys"
+filename = "hexkeys-fabric-1.20.1-0.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88dc7cbf137d58179c62ebe0dea9c23a8d2759f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7789260
+project-id = 977129
