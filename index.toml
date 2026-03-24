@@ -646,7 +646,7 @@ hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "e170cafd722ce62aa061d6770af08274391dd17064f58e82e2ff84af2b1f95ac"
+hash = "a04a9c03df3c2407d4d61e405d66b3d7f1401d508bdcfd80316e8e21b15be796"
 
 [[files]]
 file = "config/spark/config.json"
