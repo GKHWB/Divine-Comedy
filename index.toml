@@ -990,6 +990,11 @@ hash = "c042c8372e4ce2bc4aa4e54d8ddb54f7fbc4ae68a3916b7a20216d2ae1692282"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "119642cc64a5790f42738939121ea5a08100eb0c3867d7f64ead1a4d0eb8a163"
+metafile = true
+
+[[files]]
 file = "mods/defaulted-hotkeys.pw.toml"
 hash = "7af797302ac37e1cac030bae4fa7d969523c657fa23dc321557d0aa3f792862b"
 metafile = true
@@ -1678,6 +1683,11 @@ hash = "e39b8775a774366287292698ad27abba08613cdba0032ff81c886d982da2638d"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "ebc91123261bd6548c350112fa648a1eda47f37a09dbca05a118cf096c9a76c1"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
@@ -1689,6 +1699,11 @@ hash = "6dc769dc1b8b61cede85473844e31d4884f02fd686a4eca86bff376f619bff06"
 [[files]]
 file = "mods/tt20.pw.toml"
 hash = "f8382fb7ab96faa147b573619c5da9872fa6abcce25982ac015ca737e7a73339"
+metafile = true
+
+[[files]]
+file = "mods/twod_projectiles.pw.toml"
+hash = "decc75d1ea7df204aeada7051d66f2199b776d6e7b4ae3117b31680c80d4fd7c"
 metafile = true
 
 [[files]]
