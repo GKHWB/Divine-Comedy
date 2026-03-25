@@ -856,6 +856,11 @@ hash = "545fefbb036d68fb42cd96a077d42461abbf935cb71a096cee9454fba4030339"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "30eff8901d5955ab62196e335926047f6c00278fd95eb04b4e4b7122a8c31f15"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "1a86c44e54655d9cb676de1554ca49dde3db2707f1e7b6b467a4f0fb3558a1d5"
 metafile = true
