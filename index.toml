@@ -1082,6 +1082,11 @@ hash = "00f2e8c9f900b119fc5931bce91d7c00845a8e494db8910c3a4e7d69bde2bc75"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
 file = "mods/figura-0.1.5+1.20.1-fabric-mc-a5f5d5d.jar"
 hash = "5c2c480b758f307b938e29259cd96a23191670cd338ac996493b97cae4b8dad2"
 
