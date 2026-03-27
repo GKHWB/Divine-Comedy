@@ -793,10 +793,6 @@ file = "config/yyzsbackpack/yyzsbackpack.json"
 hash = "b3023d06a4ed3c128afbd61ec6f554d1aa46424df86c7f49142c55490c544bfe"
 
 [[files]]
-file = "mods/Terralith_1.20.x_v2.5.4.jar"
-hash = "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
 metafile = true
@@ -1041,6 +1037,11 @@ metafile = true
 [[files]]
 file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
 hash = "1d385e8fa6bf1d33fd76b89cddab3f51545261bac924092b58193324b2a82671"
+
+[[files]]
+file = "mods/expanded-ecosphere.pw.toml"
+hash = "3a53a559863fb54f2d2b789d0cffd7b210cc8bc21512108c09f3439a14652e2a"
+metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
@@ -1660,11 +1661,6 @@ metafile = true
 [[files]]
 file = "mods/surveyor.pw.toml"
 hash = "4364997b22f287f2a6082d4f405c30c7f93e918b944550316e03630c916a7c64"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "ce8868bbecfc78d470fe88663e4128751a4282968adaa5e5676544ecabab6355"
 metafile = true
 
 [[files]]
