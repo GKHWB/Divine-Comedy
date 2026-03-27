@@ -881,6 +881,11 @@ hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
 
 [[files]]
+file = "mods/bountiful.pw.toml"
+hash = "88d4b6472c19d1a2afe1b287c052d17559ac96603b8bbbcf82ad7a9068d953e6"
+metafile = true
+
+[[files]]
 file = "mods/building-but-better.pw.toml"
 hash = "7d1f01b53527ab3128b709f20011c3f72a6fd82375b2f8de1b2ca3201a2450ed"
 metafile = true
@@ -1259,6 +1264,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "a06e2f058ccc09999d2437517969b248bc7008ea9e990996b11d7458253784f7"
 metafile = true
 
 [[files]]
