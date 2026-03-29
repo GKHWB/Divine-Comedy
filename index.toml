@@ -109,12 +109,60 @@ file = "config/bountiful/bountiful.json"
 hash = "2c7e789ece6c760a4b17c31a310ea5723f9c2a71fa5d40e29f935081eea25b0d"
 
 [[files]]
+file = "config/bountiful/bounty_decrees/armorer.json"
+hash = "ae70fd49cff4024db6b78a40388ad18f2ae105a08926d2bc85efdc0dd54dbc56"
+
+[[files]]
+file = "config/bountiful/bounty_decrees/butcher.json"
+hash = "ae70fd49cff4024db6b78a40388ad18f2ae105a08926d2bc85efdc0dd54dbc56"
+
+[[files]]
+file = "config/bountiful/bounty_decrees/cleric.json"
+hash = "ae70fd49cff4024db6b78a40388ad18f2ae105a08926d2bc85efdc0dd54dbc56"
+
+[[files]]
+file = "config/bountiful/bounty_decrees/farmer.json"
+hash = "ae70fd49cff4024db6b78a40388ad18f2ae105a08926d2bc85efdc0dd54dbc56"
+
+[[files]]
 file = "config/bountiful/bounty_decrees/farmersdelight.json"
 hash = "2b1853069e32794c2c5d911501283febe700f4f11421d32051bfd5dbf9d8e0ff"
 
 [[files]]
+file = "config/bountiful/bounty_decrees/fisherman.json"
+hash = "ae70fd49cff4024db6b78a40388ad18f2ae105a08926d2bc85efdc0dd54dbc56"
+
+[[files]]
+file = "config/bountiful/bounty_decrees/fletcher.json"
+hash = "ae70fd49cff4024db6b78a40388ad18f2ae105a08926d2bc85efdc0dd54dbc56"
+
+[[files]]
+file = "config/bountiful/bounty_decrees/inventor.json"
+hash = "ae70fd49cff4024db6b78a40388ad18f2ae105a08926d2bc85efdc0dd54dbc56"
+
+[[files]]
+file = "config/bountiful/bounty_decrees/leatherer.json"
+hash = "ae70fd49cff4024db6b78a40388ad18f2ae105a08926d2bc85efdc0dd54dbc56"
+
+[[files]]
+file = "config/bountiful/bounty_decrees/librarian.json"
+hash = "ae70fd49cff4024db6b78a40388ad18f2ae105a08926d2bc85efdc0dd54dbc56"
+
+[[files]]
+file = "config/bountiful/bounty_decrees/mapper.json"
+hash = "ae70fd49cff4024db6b78a40388ad18f2ae105a08926d2bc85efdc0dd54dbc56"
+
+[[files]]
+file = "config/bountiful/bounty_decrees/shepherd.json"
+hash = "ae70fd49cff4024db6b78a40388ad18f2ae105a08926d2bc85efdc0dd54dbc56"
+
+[[files]]
 file = "config/bountiful/bounty_decrees/tide.json"
 hash = "257d9f6351866c64517760a8c26e8cd11d6a6495cfef411f0813fde105ade18c"
+
+[[files]]
+file = "config/bountiful/bounty_decrees/toolsmith.json"
+hash = "ae70fd49cff4024db6b78a40388ad18f2ae105a08926d2bc85efdc0dd54dbc56"
 
 [[files]]
 file = "config/bountiful/bounty_pools/._all_objs.json.swp"
