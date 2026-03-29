@@ -1,0 +1,18 @@
+{
+  "content": {
+    "tide_emeralds": {
+      "type": "item",
+      "content": "minecraft:emerald",
+      "amount": { "min": 4, "max": 16 },
+      "unitWorth": 150
+    },
+
+    "tide_golden_carrot": {
+      "type": "item",
+      "content": "minecraft:golden_carrot",
+      "amount": { "min": 2, "max": 8 },
+      "unitWorth": 200,
+      "rarity": "UNCOMMON"
+    }
+  }
+}

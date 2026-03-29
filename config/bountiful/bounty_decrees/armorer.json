@@ -1,4 +1,9 @@
 {
-    "replace": true,
-    "objectives": []
+	"replace": true,
+	"objectives": [
+		""
+	],
+	"rewards": [
+		""
+	]
 }
