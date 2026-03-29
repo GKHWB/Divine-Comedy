@@ -1,5 +1,5 @@
 {
   "feedFriendEnabled": true,
-  "globalFeedCooldown": 1000,
+  "globalFeedCooldown": 20,
   "debugEnabled": false
 }

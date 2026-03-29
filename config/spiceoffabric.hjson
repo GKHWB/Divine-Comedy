@@ -31,12 +31,12 @@
 	}
 	carrot: {
 		// default: false
-		enable: false
+		enable: true
 		// default: 0.6 * baseHealth + max(2 * floor(log2(uniqueFoodsEaten)), 0)
-		health-formula: 0.6 * baseHealth + max(2 * floor(log2(uniqueFoodsEaten)), 0)
+		health-formula: 1.0 * baseHealth + max(2 * floor(uniqueFoodsEaten / 10), 0)
 		// default: -1
 		// 	Must be inclusively between -1 and 200
-		max-health: -1
+		max-health: 200
 		// default: true
 		uneaten-in-journal: true
 	}
@@ -44,10 +44,10 @@
 		// default: false
 		use-polymer: false
 		// default: false
-		enable-paper-bag: false
+		enable-paper-bag: true
 		// default: false
-		enable-lunch-box: false
+		enable-lunch-box: true
 		// default: false
-		enable-picnic-basket: false
+		enable-picnic-basket: true
 	}
 }

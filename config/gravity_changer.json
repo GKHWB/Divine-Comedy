@@ -3,8 +3,8 @@
   "worldVelocity": false,
   "gravityStrengthMultiplier": 1.0,
   "resetGravityOnRespawn": true,
-  "voidDamageAboveWorld": true,
-  "voidDamageOnHorizontalFallTooFar": true,
+  "voidDamageAboveWorld": false,
+  "voidDamageOnHorizontalFallTooFar": false,
   "autoJumpOnGravityPlateInnerCorner": true,
   "adjustPositionAfterChangingGravity": true
 }

@@ -6,13 +6,13 @@ player = {}
 	#Should allow players to use this mod.
 	allowUseMod = true
 	#Should allow players to break blocks using this mod.
-	allowBreakBlocks = true
+	allowBreakBlocks = false
 	#Should allow players to place blocks using this mod.
 	allowPlaceBlocks = true
 	#Should allow players to interact blocks using this mod.
 	allowInteractBlocks = true
 	#Should allow players to copy and paste structures using this mod.
-	allowCopyPasteStructure = true
+	allowCopyPasteStructure = false
 	#Should allow players to break blocks with proper tools only in survival mode.
 	useProperToolsOnly = true
 	#The maximum distance a player can reach when building using this mod. 

@@ -42,7 +42,7 @@ hash = "eff1be886673bc30e4dde7030f6970915c5c1c648d671f81bae5c941025705b3"
 
 [[files]]
 file = "config/ad_astra.jsonc"
-hash = "52e9c20de34fd2fd4c0410697538922c8a63591da58117c40c88c681e08f7264"
+hash = "99e949668152f8f95c61c0423285f6c836c20b86594bf230d88d60c082666537"
 
 [[files]]
 file = "config/allium_mappings/mappings-1.20.1.tiny"
@@ -242,7 +242,7 @@ hash = "80f7938deeab9dd36ce62eae098daa427d3e4d42777b6e6dd21dcaba3f131d79"
 
 [[files]]
 file = "config/effortless.toml"
-hash = "44a80f510e1a68871220d50d0f3dae068b511e5f248794aa009f71472b566b6f"
+hash = "1d483e1649b2bfc39e4534c3769ad7abdbc8cf80b4a789ea8de2a76439dfac22"
 
 [[files]]
 file = "config/emi.css"
@@ -354,7 +354,7 @@ hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
 file = "config/gravity_changer.json"
-hash = "9ce77b962a2013c8f93e6a040415f2bef7bd6205df03e21d2180c25ed67624f2"
+hash = "f2f6bdcaa13fa419178b32cca98a44e944397bed15827ba4727c11ed9a22d4b3"
 
 [[files]]
 file = "config/herbalbrews.json"
@@ -494,7 +494,7 @@ hash = "940b907b5ca990dd5e258ed1b42461400cbc4755f7d1935daa09869a65000ce9"
 
 [[files]]
 file = "config/letyourfriendeating-settings.json"
-hash = "6c169270d5ea7a19b4b7b74f3d7d40f4477de2199a3e8ef12eedea9ad24bff8a"
+hash = "a56a3751ff2c09544086491c4a11ca63c1669143bf9b2a889f24d5e274792646"
 
 [[files]]
 file = "config/libgui.json5"
@@ -702,7 +702,7 @@ hash = "2c27230381299086cad9d99e241198e3822ec3a77d59ee950a20d1fdd252896b"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "bc60e1538436891855ced9239bc1a56b74677905ade72943b2a3e9abe2adf957"
+hash = "6fa91a62f1f0d49384f63a4927b1a15b16468fb313ee8f14135a32d4bf6b707f"
 
 [[files]]
 file = "config/stackdeobf.json"
@@ -1822,6 +1822,34 @@ hash = "7f321451e24fb35135023f272a0e99de5d790573cf3acba2467eaa9c55e2d7b2"
 [[files]]
 file = "resourcepacks/toki-pona.zip"
 hash = "17b418b2a9993418157d9d61bf08a050adac3094f466486a1549d8e438b1e3b2"
+
+[[files]]
+file = "scripts/common/phials.zs"
+hash = "4b5a7c3488b572846f638cd0c1f31edffb64569b652b2c365059006cb695dd30"
+
+[[files]]
+file = "scripts/hexbox.zs"
+hash = "b46dfd49f02f47a30acfe4cc875bfc75c9be9b8e3da629d41446f68bdca78922"
+
+[[files]]
+file = "scripts/recipes/gift_sacks.zs"
+hash = "39d5bf4038d8ad7ee9b262e12541e6634b8f02e0264caa204ab88305bfbbf019"
+
+[[files]]
+file = "scripts/recipes/hex_changes.zs"
+hash = "6ad5723d02fd496633aa444540e92ffbb51c4d0a288c2eebda2ce9e4a607f067"
+
+[[files]]
+file = "scripts/recipes/merge_phials.zs"
+hash = "4344d643d816b732f478e75b5cf3281125b61ddfe9bea184915cdc113a68bced"
+
+[[files]]
+file = "scripts/recipes/random_changes.zs"
+hash = "0533aa2928ebc2f39cda29d52c3827fd08f2a84b9c3895e9b0784c3fbb45bcfe"
+
+[[files]]
+file = "scripts/tags/everblacklist.zs"
+hash = "55299950800caa234ee77d7dcd85753f4d9bfb0c725c8b857fbdcfa2c1a4615f"
 
 [[files]]
 file = "shaderpacks/BSL_v10.1.1.zip"
