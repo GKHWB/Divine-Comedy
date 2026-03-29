@@ -178,7 +178,7 @@ hash = "cb8afca6f25c036c688012125b81df276cec1a11c189b980fa7e5bbf652ed920"
 
 [[files]]
 file = "config/bountiful/bounty_pools/farmersdelight_rews.json"
-hash = "0e29a2ce5e7e63b2d7ebbe5926faa2485709a600188e75b869abedca59d75b07"
+hash = "fb236917b479c603f179397f673adef2b661d6ed9fa5148cf2682acf512a789c"
 
 [[files]]
 file = "config/bountiful/bounty_pools/tide_objs.json"
