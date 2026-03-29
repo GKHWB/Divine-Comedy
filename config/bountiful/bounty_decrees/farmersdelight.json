@@ -1,0 +1,10 @@
+{
+  "objectives": [
+    "farmersdelight_objs"
+  ],
+  "rewards": [
+    "farmersdelight_rews",
+    "_all_rews"
+  ],
+  "name": "Chef's Board"
+}

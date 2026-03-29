@@ -1,0 +1,35 @@
+{
+  "content": {
+    "fd_emeralds": {
+      "type": "item",
+      "content": "minecraft:emerald",
+      "amount": { "min": 4, "max": 16 },
+      "unitWorth": 150
+    },
+
+    "fd_golden_carrot": {
+      "type": "item",
+      "content": "minecraft:golden_carrot",
+      "amount": { "min": 2, "max": 8 },
+      "unitWorth": 200,
+      "rarity": "UNCOMMON"
+    },
+
+    "fd_enchanted_book": {
+      "type": "item",
+      "content": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"oneironaut:overcast_damage\",lvl:4s}]}",
+      "amount": { "min": 1, "max": 1 },
+      "unitWorth": 600,
+      "rarity": "UNCOMMON"
+    },
+
+    "fd_media_cube": {
+      "type": "item",
+      "content": "hexcasting:creative_unlocker",
+      "amount": { "min": 1, "max": 1 },
+      "unitWorth": 100,
+      "rarity": "COMMON"
+    }
+  }
+}

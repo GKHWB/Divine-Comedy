@@ -105,6 +105,42 @@ file = "config/bobby.conf"
 hash = "b53c14bbef682afb9ad89d42e06c06f093d63923661bb685f6686011f71bbb53"
 
 [[files]]
+file = "config/bountiful/bountiful.json"
+hash = "2c7e789ece6c760a4b17c31a310ea5723f9c2a71fa5d40e29f935081eea25b0d"
+
+[[files]]
+file = "config/bountiful/bounty_decrees/farmersdelight.json"
+hash = "2b1853069e32794c2c5d911501283febe700f4f11421d32051bfd5dbf9d8e0ff"
+
+[[files]]
+file = "config/bountiful/bounty_decrees/tide.json"
+hash = "257d9f6351866c64517760a8c26e8cd11d6a6495cfef411f0813fde105ade18c"
+
+[[files]]
+file = "config/bountiful/bounty_pools/._all_objs.json.swp"
+hash = "615a791e648310c791b5e1b2c35bbb2e94247003fede915a877d6136a685ebb6"
+
+[[files]]
+file = "config/bountiful/bounty_pools/_all_objs.json"
+hash = "cd01cd9e4a433f551a1990faacdc7c1a19bd9ca2c3a67498b290c5a99058e23b"
+
+[[files]]
+file = "config/bountiful/bounty_pools/farmersdelight_objs.json"
+hash = "cb8afca6f25c036c688012125b81df276cec1a11c189b980fa7e5bbf652ed920"
+
+[[files]]
+file = "config/bountiful/bounty_pools/farmersdelight_rews.json"
+hash = "0e29a2ce5e7e63b2d7ebbe5926faa2485709a600188e75b869abedca59d75b07"
+
+[[files]]
+file = "config/bountiful/bounty_pools/tide_objs.json"
+hash = "69381fa57ab6f4353e602771d5700f086e818773123f66fc86e301d94075fc47"
+
+[[files]]
+file = "config/bountiful/bounty_pools/tide_rews.json"
+hash = "16efd65166f662215159b7a935e61793e32d3bd1b92cacb83e0f1b865ba8af5d"
+
+[[files]]
 file = "config/bwncr.toml"
 hash = "4a3e5c2643b3e40f9a5edd3d540f788818dfdf382c19340393a47efefd52ecde"
 

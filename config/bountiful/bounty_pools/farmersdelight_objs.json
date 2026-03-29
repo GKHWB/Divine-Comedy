@@ -1,0 +1,57 @@
+{
+  "content": {
+    "fd_vegetable_delivery": {
+      "type": "item_tag",
+      "content": "forge:vegetables",
+      "amount": { "min": 16, "max": 48 },
+      "unitWorth": 25,
+      "name": "Deliver Fresh Vegetables"
+    },
+
+    "fd_soup_order": {
+      "type": "item",
+      "content": "farmersdelight:vegetable_soup",
+      "amount": { "min": 2, "max": 6 },
+      "unitWorth": 250,
+      "name": "Prepare Vegetable Soup"
+    },
+
+    "fd_fried_rice": {
+      "type": "item",
+      "content": "farmersdelight:fried_rice",
+      "amount": { "min": 2, "max": 6 },
+      "unitWorth": 300,
+      "rarity": "UNCOMMON"
+    },
+
+    "fd_roast_chicken": {
+      "type": "item",
+      "content": "farmersdelight:roast_chicken",
+      "amount": { "min": 1, "max": 2 },
+      "unitWorth": 800,
+      "rarity": "RARE",
+      "name": "Prepare a Feast"
+    },
+    "fd_wheat": {
+  "type": "item",
+  "content": "minecraft:wheat",
+  "amount": { "min": 16, "max": 64 },
+  "unitWorth": 20
+},
+
+"fd_carrots": {
+  "type": "item",
+  "content": "minecraft:carrot",
+  "amount": { "min": 16, "max": 64 },
+  "unitWorth": 20
+},
+
+"fd_eggs": {
+  "type": "item",
+  "content": "minecraft:egg",
+  "amount": { "min": 6, "max": 24 },
+  "unitWorth": 30
+}
+}
+}
+

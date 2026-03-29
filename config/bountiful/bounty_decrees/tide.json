@@ -1,0 +1,9 @@
+{
+  "objectives": [
+    "tide_objs"
+  ],
+  "rewards": [
+    "tide_rews"
+  ],
+  "name": "Tide"
+}

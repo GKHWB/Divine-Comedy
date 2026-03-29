@@ -1,0 +1,36 @@
+{
+  "content": {
+    "any_bucket_fill": {
+      "type": "criteria",
+      "content": "minecraft:filled_bucket",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:water_bucket",
+            "minecraft:lava_bucket",
+            "minecraft:milk_bucket"
+          ]
+        }
+      },
+      "amount": {
+        "min": 1,
+        "max": 5
+      },
+      "unitWorth": 150,
+      "name": "Fill buckets",
+      "icon": "minecraft:bucket"
+    }
+  }
+}
+
+{
+  "content": {
+    "fd_food_generic": {
+      "type": "item_tag",
+      "content": "minecraft:foods",
+      "amount": { "min": 10, "max": 30 },
+      "unitWorth": 40,
+      "name": "Provide Food Supplies"
+    }
+  }
+}
