@@ -1884,10 +1884,6 @@ file = "scripts/recipes/gift_sacks.zs"
 hash = "39d5bf4038d8ad7ee9b262e12541e6634b8f02e0264caa204ab88305bfbbf019"
 
 [[files]]
-file = "scripts/recipes/hex_changes.zs"
-hash = "6ad5723d02fd496633aa444540e92ffbb51c4d0a288c2eebda2ce9e4a607f067"
-
-[[files]]
 file = "scripts/recipes/merge_phials.zs"
 hash = "4344d643d816b732f478e75b5cf3281125b61ddfe9bea184915cdc113a68bced"
 
