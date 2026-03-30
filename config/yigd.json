@@ -216,13 +216,13 @@
       "targeting": "PLAYER_GRAVE"
     },
     "deathScroll": {
-      "enabled": false,
+      "enabled": true,
       "rebindable": false,
       "receiveOnRespawn": false,
-      "clickFunction": "VIEW_CONTENTS",
-      "consumeOnUse": false,
-      "useTime": 0,
-      "useCooldown": 0
+      "clickFunction": "RESTORE_CONTENTS",
+      "consumeOnUse": true,
+      "useTime": 20,
+      "useCooldown": 20
     },
     "graveCompass": {
       "receiveOnRespawn": false,

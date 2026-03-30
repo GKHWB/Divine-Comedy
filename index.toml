@@ -214,7 +214,7 @@ hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "da6fdce0a0b230f5ad04a17eba82e3d54651e9c540177e0169cdfe9e6ecba00e"
+hash = "5240c48fb3e9766093edc69ec77506b008b7bde86e3e495a4de41005f6334bb3"
 
 [[files]]
 file = "config/chat_heads.json5"
@@ -354,7 +354,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "5cb3a7b0f5cbc06c66a402333496ebc51dcfdd0cc66a12ef1a759acf914dba20"
+hash = "c266b2e90ed7c4317736c823a43e771dff0f6b7fa9f42471d3784cf8a34a3405"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -766,7 +766,7 @@ hash = "5e42cec6e3ed64996eced65c11b813286874a6ffed685a0b141171ced6a24335"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "c3a68ff97284d5fa78b1eb0afef89baf9faa8b73ed5473e88f79bd2336ab1434"
+hash = "64d4d843b232f7fd9343484920ae805bfd1d1394120a9bde521c64258ac0fe06"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -858,7 +858,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yigd.json"
-hash = "a0588302c077e2fe9140669a30bfd7dcdd0f2a77af172e85b296deafbb26a600"
+hash = "7babe1dd2b825f91fc3ef589effe9a60dea560a39f7a68d6ff33494a0c2c1e9c"
 
 [[files]]
 file = "config/yyzsbackpack/materials/diamond.json"
@@ -878,7 +878,7 @@ hash = "e1cb5559dceb93b51747ab562fab2f02feba81e3da775d2f409039fc4e5f73fe"
 
 [[files]]
 file = "config/yyzsbackpack/yyzsbackpack.json"
-hash = "b3023d06a4ed3c128afbd61ec6f554d1aa46424df86c7f49142c55490c544bfe"
+hash = "648677ebb3ff03a22ea039958b1218735ac2b4f5c5deeb59232bce78782fb9a9"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -1882,6 +1882,22 @@ hash = "4b5a7c3488b572846f638cd0c1f31edffb64569b652b2c365059006cb695dd30"
 [[files]]
 file = "scripts/hexbox.zs"
 hash = "b46dfd49f02f47a30acfe4cc875bfc75c9be9b8e3da629d41446f68bdca78922"
+
+[[files]]
+file = "scripts/recipes/beauty_rope.zs"
+hash = "797c44c7e582cb65c5c04a7608d5957beaa25c6a51fede29d068ab93f14c4934"
+
+[[files]]
+file = "scripts/recipes/better_rope.zs"
+hash = "7e2f71e3dbd2b9f0f8bcb754f1ea596bf27ccd1d6c49261c780bd3d727d9f160"
+
+[[files]]
+file = "scripts/recipes/death_scroll.zs"
+hash = "26277850877973a19616dadf28c73bb8c255a903920ef1340710fd0364cbfa7a"
+
+[[files]]
+file = "scripts/recipes/ender_heart.zs"
+hash = "fa718ab6ca54b1f09b4cb1d5b8f4240cfbeab74c41c940d7c5696704fa81d094"
 
 [[files]]
 file = "scripts/recipes/gift_sacks.zs"

@@ -2,9 +2,9 @@
   // Enable quick backpack swapping
   "quick_swap_backpack": true,
   // Force use of dedicated backpack slot instead of accessory slot
-  "use_dedicated_slot": false,
+  "use_dedicated_slot": true,
   // Render backpack model
-  "render_backpack_model": true,
+  "render_backpack_model": false,
   // Prevent container items (like Shulker Boxes) from being placed in backpack
   "restrict_container_items": false,
   // X position of backpack slot
