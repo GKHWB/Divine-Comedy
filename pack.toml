@@ -1,12 +1,12 @@
 name = "Divine Comedy"
 author = "Wolkenz"
-version = "1.2.9"
+version = "1.2.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "29aa13528728f9a241e71afe6dca607b3728a1b49bb39ea6869e32eea9444972"
+hash = "f4b096a7e4ae884042b8122e634707cfe1ef280898e129b33356a5b466eaf505"
 
 [versions]
 fabric = "0.18.4"
