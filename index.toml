@@ -1251,6 +1251,11 @@ file = "mods/hexcasting-fabric-1.20.1-0.11.3-7202ed7.jar"
 hash = "ad9874968972104abffb373a1f1d6a118b182a5c26429c2102dd734aa8760883"
 
 [[files]]
+file = "mods/hexcasting-media-display.pw.toml"
+hash = "97561d1f3023cc7fd54cc878814d85dee5df61321d047c66fe0009748d7818b0"
+metafile = true
+
+[[files]]
 file = "mods/hexcellular-1.1.0-04dcd44.jar"
 hash = "d1ace7b0d36d0129c20375eccf964609d085fa78f11c38336fec2b31d7429856"
 
