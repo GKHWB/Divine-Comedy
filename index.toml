@@ -354,7 +354,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "c266b2e90ed7c4317736c823a43e771dff0f6b7fa9f42471d3784cf8a34a3405"
+hash = "4bb7338a5e38ac277ad0eb9d4487abce550ddd5bae32c6ffe0f10956aed33b38"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -1915,6 +1915,10 @@ hash = "4344d643d816b732f478e75b5cf3281125b61ddfe9bea184915cdc113a68bced"
 [[files]]
 file = "scripts/recipes/random_changes.zs"
 hash = "0533aa2928ebc2f39cda29d52c3827fd08f2a84b9c3895e9b0784c3fbb45bcfe"
+
+[[files]]
+file = "scripts/recipes/runewood_itemstand.zs"
+hash = "f8dc76c58a50228ee8054f4e99b52858c6e8928f98732ec16f4a165660c90bc0"
 
 [[files]]
 file = "scripts/tags/everblacklist.zs"
