@@ -1565,6 +1565,11 @@ hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
 
 [[files]]
+file = "mods/notes.pw.toml"
+hash = "5c1b1e24afe39ceeb2c7d11f23a14f1195710d98407133ac102f7a03cba84216"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "f4e30d7382bed2274ece18518504ebdc13392951b60e2ac1e7dffec6c10f64e9"
 metafile = true
