@@ -750,7 +750,7 @@ hash = "3dfc79aa0d4c072a6e024c60352ac7ab22c62c1f8a372acbc25a1e4be8796cce"
 
 [[files]]
 file = "config/spelunkery-common.json"
-hash = "2c27230381299086cad9d99e241198e3822ec3a77d59ee950a20d1fdd252896b"
+hash = "511751b369a584baf63f4aad16c4a733c3fd3d7e0361e9e05d02eac1ab202dab"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
